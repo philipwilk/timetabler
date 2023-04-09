@@ -1,2 +1,5 @@
 /target
 cookies.txt
+.vscode
+.direnv
+/result
